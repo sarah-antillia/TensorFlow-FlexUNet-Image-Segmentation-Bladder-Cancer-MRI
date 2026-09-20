@@ -5,7 +5,7 @@ This is the first experiment of Image Segmentation for <b>Bladder-Cancer-MRI</b>
 our <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model">TensorFlowFlexUNet Model</a>
  (<b>TensorFlow Flexible UNet Image Segmentation Model for Multiclass</b>) and a 512x512-pixel upscaled PNG
  <a href="https://drive.google.com/file/d/1o8i2IhtBAUYlvSTUgqgk8OS1NalSgrST/view?usp=sharing">
-Augmented-Bladder-Cancer-ImageMask-Dataset.zip</a> with colorized masks, 
+Augmented-Bladder-Cancer-ImageMask-Dataset-V3.zip</a> with colorized masks, 
 which was derived by us from GitHub 
 <br><br>
 <a href="https://github.com/17764592882/bladder_cancer_dataset">
@@ -66,7 +66,7 @@ Unknown
  If you would like to train this Bladder-Cancer Segmentation model,
  please download the dataset from Google Drive  
  <a href="https://drive.google.com/file/d/1o8i2IhtBAUYlvSTUgqgk8OS1NalSgrST/view?usp=sharing">
-Augmented-Bladder-Cancer-ImageMask-Dataset.zip</a>. 
+Augmented-Bladder-Cancer-ImageMask-Dataset-V3.zip</a>. 
 Expand the downloaded ImageMaskDataset and put it under the <b>./dataset</b> folder.
 <br>
 <pre>
